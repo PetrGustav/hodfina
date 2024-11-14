@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: crimson;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+  text-align: center;  
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: chartreuse;
+}
+body{
+    background-image: url(drak.png);
+    background-size:cover;
+}
